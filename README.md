@@ -2,7 +2,7 @@ I share my real time proeject (Figma design).
 
 Link: https://www.figma.com/design/FDBeFL82X3VAxB5Sq4ogRV/Wisper-Jobs-App?node-id=0-1&t=XsVkq2oa69mizF61-1
 
-Describtion:
+Description:
 
 Project: Wisper Jobs App
 
